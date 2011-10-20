@@ -15,3 +15,7 @@ PUT
 DELETE
 
 And it can take multiple files at the end of the command line
+
+
+
+Uses the AWS Component library for .NET from SprightlySoft: http://sprightlysoft.com/AWSComponent/
